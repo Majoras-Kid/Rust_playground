@@ -1,0 +1,6 @@
+[package]
+name = "state_maschine"
+version = "0.1.0"
+authors = ["Jakobsmeier <florian.jakobsmeier@gmail.com>"]
+
+[dependencies]
